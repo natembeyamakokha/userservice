@@ -1,3 +1,4 @@
 # userservice
 Spring boot - jwt auth token
-  mk
+
+Domain is also a model.
